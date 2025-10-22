@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello khan
+=======
+xin chao hau
+>>>>>>> nhanh2
